@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cahuzac.p@gmail.com**
 
-<h3 align="left">Connect with me: cahuzac.p@gmail.com </h3>
+
 <p align="left">
 </p>
 

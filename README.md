@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierrecahuzac&label=Profile%20views&color=0e75b6&style=flat" alt="pierrecahuzac" /> </p>
 
-- 🔭 I’m currently working on a personnal project **Collections**
+- 🔭 I’m currently working on personal projects **Westiti** and **Good deals**
 
-- 🌱 I’m currently learning **NestJs and React**
+- 🌱 I’m currently learning **NestJs and NextJs**
 
 - 📫 How to reach me **cahuzac.p@gmail.com**
 

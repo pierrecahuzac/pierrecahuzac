@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierrecahuzac&label=Profile%20views&color=0e75b6&style=flat" alt="pierrecahuzac" /> </p>
 
-- 🔭 I’m currently working on personal projects [Westiti](https://app.pierrecahuzac.online) and [Collectify](https://partagetacollection.eu/)
+- 🔭 I’m currently working on personal projects [Westiti](https://app.pierrecahuzac.online) and [PartageTaCollection](https://partagetacollection.eu/)
 
 
 - 📫 How to reach me **cahuzac.p@gmail.com**

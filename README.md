@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Pierre](https://pierrecahuzac.online)</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://pierrecahuzac.online">Pierre</a></h1>
 <h3 align="center">A developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierrecahuzac&label=Profile%20views&color=0e75b6&style=flat" alt="pierrecahuzac" /> </p>
